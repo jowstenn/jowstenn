@@ -1,5 +1,8 @@
 ### Hi there 👋
+<h1 align="center">Hi 👋, I'm Justin Kirk McCarthy</h1>
+<h3 align="center">A 3rd year CPE student in TIP QC</h3>
 
+- 🌱 I’m currently learning **Data Science** as an elective.
 <!--
 **jowstenn/jowstenn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
