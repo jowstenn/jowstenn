@@ -1,3 +1,5 @@
+![welcome](https://github.com/jowstenn/CPE313/assets/145999851/598ffe74-083c-4913-bc0a-2d98f3b600a0)
+
 <h1 align="center">Hi 👋, I'm Justin Kirk McCarthy</h1>
 <h3 align="center">A 3rd year CPE student in TIP QC</h3>
 
